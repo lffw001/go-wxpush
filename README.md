@@ -25,6 +25,8 @@
 - 关注测试公众号，获取userid(微信号)，新增测试模板(注意模版内容填写格式 `内容: {{content.DATA}}`)  获取template_id(模板ID)
 ![wx3.png](img/wx3.png)
 - 将以上获取到的参数代入下面使用即可
+![wx3.png](img/w0.jpg)
+![wx3.png](img/w1.jpg)
 
 ## 🚀 部署指南
 
